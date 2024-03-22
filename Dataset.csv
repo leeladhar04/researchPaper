@@ -1,0 +1,946 @@
+brand,stars,reviewsCount,Category,price/value
+MI,4.2,67782.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",11490.0
+FRATELLI,3.1,45.0,Toys & Games › Electronic Toys › Plug & Play Video Games,1499.0
+Sonos,4.7,4790.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,32998.25
+JBL,4.2,58.0,Electronics › Home Audio › Speakers › Ceiling & In Wall Speakers,11249.0
+realme,4.0,7310.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,7499.0
+Marshall,4.6,9912.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,14950.0
+Geek Theory,4.3,1284.0,Toys & Games › Electronic Toys › Handheld Games,16102.51
+Sennheiser,4.1,930.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",16988.0
+BoAt,4.0,30716.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",349.0
+Dell,3.6,475.0,Computers & Accessories › Laptops › Traditional Laptops,51990.0
+Sony,4.2,7163.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",3990.0
+Corsair,3.9,219.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,8199.0
+JBL,4.1,202172.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",569.0
+Samsung,3.9,325.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,59999.0
+Logitech G,4.6,228.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gaming Mice,15495.0
+VU,4.2,4853.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",24290.0
+boAt,3.9,4177.0,Electronics › Wearable Technology › Smart Watches,1499.0
+Sennheiser,3.9,6384.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",5490.0
+Dyanora,3.6,134.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",8299.0
+boAt,4.2,16614.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,3499.0
+JBL,4.4,52203.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,2799.0
+Amazon basics,3.9,1077.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,799.0
+BoAt,4.2,43732.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1799.0
+JBL,4.4,32018.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,9998.0
+Sennheiser,3.9,6384.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",5490.0
+Philips Audio,3.8,3179.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",229.0
+TechKing,2.6,2.0,Toys & Games › Electronic Toys › Plug & Play Video Games,1999.0
+Sameo,3.0,3.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,2599.0
+TCL,4.0,863.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",59990.0
+Redmi,3.1,611.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,21999.0
+Sony,4.2,784.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,24990.0
+GSH,3.6,398.0,Toys & Games › Electronic Toys › Plug & Play Video Games,1399.0
+MI,4.0,4497.0,Electronics › Home Audio › Speakers › Outdoor Speakers,1997.0
+SHOKZ,4.2,275.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Open-Ear Headphones",13499.0
+ASUS,4.4,3.0,Computers & Accessories › Laptops › Traditional Laptops,130900.0
+Dell,3.0,2.0,Computers & Accessories › Laptops › Traditional Laptops,17990.0
+Tribit,4.4,2580.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,8199.0
+DOOGEE,3.9,25.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,46300.0
+Sonos,4.7,843.0,Electronics › Home Audio › Speakers › Bookshelf Speakers,49998.2
+PTron,5.0,2.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,598.0
+Sony,4.3,1764.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,5990.0
+Marshall,4.5,76.0,Electronics › Home Audio › Speakers › Outdoor Speakers,34998.0
+Marycan,5.0,2.0,Computers & Accessories › Components › Fans & Cooling › Water Cooling Systems,66380.0
+ALT,4.4,513.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",29999.0
+Sennheiser,4.3,3946.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",27990.0
+HP,3.6,5.0,Computers & Accessories › Laptops › Traditional Laptops,43490.0
+AVITA,1.8,6.0,Computers & Accessories › Laptops › Traditional Laptops,21490.0
+iTronix,4.0,1389.0,Electronics › Wearable Technology › Smart Watches,149.0
+Creative,4.3,193.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,7260.0
+CrossBeats,4.3,1539.0,Electronics › Wearable Technology › Smart Watches,1999.0
+DUDUSTRONG,4.1,9.0,Video Games › Nintendo Switch › Accessories › Cases & Storage,585.0
+Audio-Technica,4.6,25254.0,Electronics › Electronics › Headphones › Over-Ear Headphones,11599.0
+DKD,3.4,3.0,Video Games › Legacy Systems,7890.0
+Fastrack,4.0,1742.0,Electronics › Wearable Technology › Smart Watches,2499.0
+beatXP,3.1,158.0,Electronics › Wearable Technology › Smart Watches,999.0
+Redmi,4.2,56352.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",31499.0
+Vu,4.4,3218.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",39990.0
+iClever,4.3,6689.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",2519.0
+JBL,4.3,505.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,15676.0
+JBL,4.3,61790.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1598.0
+EarFun,4.5,496.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,5699.0
+HyperX,4.1,20743.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,7348.0
+Amazon basics,4.0,12.0,Electronics › Home Audio › Speakers › Soundbar Speakers,699.0
+Logitech,4.0,16363.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",745.0
+boAt,4.1,92974.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",449.0
+Omeron,3.6,5.0,Toys & Games › Electronic Toys › Plug & Play Video Games,3299.0
+Samsung,4.6,3.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,57499.0
+Sony,4.4,36.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,43519.0
+Mivi,4.3,38729.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,799.0
+JBL,3.3,34.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,5499.0
+ARZOPA,4.4,4903.0,Computers & Accessories › Monitors,18100.0
+Sony,4.4,22571.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",7394.0
+Srhythm,4.2,1049.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",9498.0
+Itel,3.7,358.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,5999.0
+soundcore,4.6,7.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,6999.0
+boAt,3.9,4197.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",3999.0
+Acer,3.7,12.0,Computers & Accessories › Laptops › Traditional Laptops,41990.0
+NINKI,4.1,30.0,"Computers & Accessories › Accessories & Peripherals › Tablet Accessories › Bags,Cases & Sleeves › Cases",7039.0
+CULTSPORT,4.2,1874.0,Electronics › Wearable Technology › Smart Watches,3499.0
+ZEBRONICS,3.9,2091.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1999.0
+IKALL,3.9,6.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,9799.0
+Sony,4.5,11103.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",26990.0
+Audio-Technica,4.4,839.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",7790.0
+LS LAPSTER Quality Assured,3.6,4888.0,Electronics › Wearable Technology › Arm & Wristband Accessories › Cables,149.0
+SHOKZ,4.2,275.0,"Electronics › Headphones, Earbuds & Accessories › Headphones",13499.0
+JBL,4.5,318.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,25999.0
+boAt,3.4,167.0,Electronics › Home Audio › Speakers › Soundbar Speakers,7499.0
+boAt,3.9,193.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1999.0
+ASUS,4.1,61.0,Computers & Accessories › Laptops › Traditional Laptops,86990.0
+JBL,4.4,21286.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,13999.0
+CredevZone,4.1,38.0,Toys & Games › Electronic Toys › Handheld Games,28047.0
+Crownton,3.9,11.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",8399.0
+LOPAZ,4.1,9.0,Electronics › Wearable Technology › Smart Watches,749.0
+amazon basics,4.2,1386.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",399.0
+BoAt,4.0,30716.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",329.0
+Harman Kardon,4.1,38.0,Electronics › Home Audio › Speakers,23999.0
+EvoFox,3.9,355.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,2633.0
+SYVO,3.8,1963.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,449.0
+GSH,3.1,4.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,5499.0
+Cmple,4.3,82.0,"Electronics › Mobiles & Accessories › Mobile Accessories › Maintenance, Upkeep & Repairs › Screen Protectors",27998.0
+2&CO,3.0,6.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,39800.0
+ASUS,4.2,1038.0,Computers & Accessories › Laptops › Traditional Laptops,49900.0
+Lenovo,4.4,9.0,Computers & Accessories › Laptops › Traditional Laptops,64190.0
+Enfogo,5.0,1.0,Toys & Games › Electronic Toys › Plug & Play Video Games,1995.0
+AGPTEK,4.2,37256.0,Electronics › Wearable Technology › Smart Watches,8388.0
+Skullcandy,4.0,5856.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",7499.0
+Portronics,4.0,6274.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,899.0
+Kodak,4.1,12208.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",9499.0
+ViewSonic,4.5,1285.0,Computers & Accessories › Monitors,18999.0
+Honeywell,4.5,2120.0,"Electronics › Home Theater, TV & Video › Accessories › Cables › HDMI Cables",16599.0
+Amazon basics,3.8,3265.0,Electronics › Home Audio › Speakers › Soundbar Speakers,899.0
+MOUJI,4.7,4.0,"Electronics › Laptops, Tablets & Cameras › Tablets",32669.0
+Nintendo,4.3,105.0,Video Games › Nintendo Switch › Consoles,18997.0
+ASUS,3.2,5.0,Video Games › Handheld Game Systems › ROG Ally › Consoles,59990.0
+HYUNDAI,4.1,41.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",9999.0
+Marshall,4.3,64.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,59999.0
+TCL,4.0,863.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",28990.0
+PTron,4.1,4244.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1399.0
+Gameson,2.6,16.0,Video Games › Legacy Systems › PlayStation Systems › PSP › Consoles,2998.0
+TMG Store,4.0,3.0,Toys & Games › Electronic Toys › Handheld Games,999.0
+ZEBSTER,3.2,820.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",349.0
+BoAt,4.0,4414.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,899.0
+Fujitsu,3.7,17.0,Computers & Accessories › Laptops › Traditional Laptops,73990.0
+HP,4.1,1497.0,Computers & Accessories › Laptops › Traditional Laptops,38990.0
+Sony,4.6,23299.0,Electronics › Electronics › Headphones › Over-Ear Headphones,7490.0
+Sadhwanis,5.0,2.0,Toys & Games › Electronic Toys › Plug & Play Video Games,2699.0
+IKALL,1.0,1.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6299.0
+PTron,3.6,18.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,598.0
+AXVOLT,3.9,86.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",1299.0
+Samsung,3.8,60.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,32849.0
+Promate,4.0,73.0,Electronics › Wearable Technology › Smart Watches,5686.0
+SAMTONIC,3.9,6.0,"Electronics › Home Theater, TV & Video › Televisions › Standard Televisions",5999.0
+CUQI,4.2,459.0,Computers & Accessories › Monitors,14070.0
+RFV1,4.5,6.0,Toys & Games › Electronic Toys › Plug & Play Video Games,2525.0
+Jabra,4.3,138.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",19999.0
+JXD,3.4,291.0,Toys & Games › Electronic Toys › Plug & Play Video Games,46262.7
+FYURI,5.0,2.0,Toys & Games › Electronic Toys › Handheld Games,5499.0
+MICROMINI,3.8,10.0,Video Games › Legacy Systems › PlayStation Systems › PSP › Consoles,6980.0
+ZEBRONICS,3.9,11769.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",1099.0
+Generic,3.1,99.0,Video Games › HandHeld Gaming,480.0
+iQOO,4.5,781.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,52999.0
+FASTSNAIL,4.3,67.0,Video Games › Legacy Systems › PlayStation Systems,10072.0
+GSH,3.7,828.0,Toys & Games › Electronic Toys › Plug & Play Video Games,3499.0
+JBL,4.1,205087.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",599.0
+HP,4.0,1.0,Computers & Accessories › Laptops › Traditional Laptops,88990.0
+YAMAHA,4.2,175.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",16670.0
+Jabra,4.4,3614.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",14128.0
+Whirlpool,4.0,2662.0,Home & Kitchen › Large Appliances › Refrigerators,25400.0
+Meta Quest,4.4,298.0,Computers & Accessories › CE - Flat 250 off on CC - 5000,51999.0
+Voacle,4.4,205.0,Toys & Games › Electronic Toys › Plug & Play Video Games,8499.0
+Nintendo,4.6,158.0,Video Games › Online Game Services,29399.0
+Portronics,4.0,3975.0,Electronics › Home Audio › Speakers › Outdoor Speakers,1849.0
+Amazon basics,4.3,87.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",899.0
+ASUS,4.0,98.0,Computers & Accessories › Laptops › Traditional Laptops,48622.0
+Titan,3.7,16.0,Electronics › Wearable Technology › Smart Watches,9995.0
+Noise,4.1,531.0,Electronics › Wearable Technology › Smart Watches,3499.0
+Microsoft,4.6,3.0,Computers & Accessories › Laptops › Traditional Laptops,182990.0
+Jabra,4.4,641.0,Electronics › Telephones & Accessories › Accessories › Headsets,14500.0
+ASUS,3.9,404.0,Computers & Accessories › Laptops › Traditional Laptops,64990.0
+ZEBRONICS,3.4,1483.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1449.0
+Samsung,4.1,8.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,54898.0
+DREAMHAX,4.4,90.0,Toys & Games › Electronic Toys › Plug & Play Video Games,13597.0
+Sameo,4.6,3.0,Video Games › No Cost EMI | Automated,4899.0
+Generic,5.0,1.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,64490.0
+Lenovo,3.2,41.0,Computers & Accessories › Laptops › Traditional Laptops,16499.0
+Samsung,4.5,201.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,134999.0
+VW,4.2,1696.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",7499.0
+JBL,4.4,32018.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,9998.0
+Bose,4.0,33633.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",15990.0
+Marshall,4.5,6413.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,26998.0
+Panasonic,3.8,123.0,Electronics › Home Audio › Speakers › Tower Speakers,16390.0
+Dell,4.6,3.0,Computers & Accessories › Laptops › Traditional Laptops,61519.0
+Nintendo,4.6,3527.0,Video Games › Nintendo Switch › Consoles,32399.0
+MSI,4.4,21.0,Computers & Accessories › Laptops › Traditional Laptops,36990.0
+Sony,4.8,19007.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",52990.0
+boAt,4.1,37091.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",399.0
+Jlab,3.9,214.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,13736.0
+Blaupunkt,3.8,11009.0,Electronics › Home Audio › Speakers › Soundbar Speakers,999.0
+boAt,4.5,2.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,7499.0
+boAt,4.1,62638.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",2799.0
+Harman Kardon,4.6,142.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,16299.0
+Edifier,4.5,395.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,15762.0
+ASUS,4.0,97.0,Computers & Accessories › Laptops › Traditional Laptops,94990.0
+GAMENOPHOBIA,3.3,68.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,889.0
+BUYFLUX,5.0,1.0,"Electronics › Home Theater, TV & Video › Accessories › Cables › HDMI Cables",399.0
+JBL,3.8,46326.0,"Electronics › Headphones, Earbuds & Accessories › Headphones",2899.0
+TCL,4.1,3727.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",10490.0
+Samsung,4.7,14.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,34950.0
+Portronics,4.2,1305.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1899.0
+Cintwor,4.0,82.0,Toys & Games › Electronic Toys › Handheld Games,26119.0
+amazon basics,5.0,1.0,"Electronics › Home Theater, TV & Video › Accessories › Cables › HDMI Cables",549.0
+Blaupunkt,3.8,11009.0,Electronics › Home Audio › Speakers › Soundbar Speakers,1299.0
+Samsung,3.6,71.0,Computers & Accessories › Laptops › Traditional Laptops,120115.0
+Redgear,4.2,19635.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,1699.0
+BoAt,4.1,91789.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",399.0
+iTronix,4.0,1018.0,Electronics › Wearable Technology › Smart Watches,149.0
+Redmi,3.9,868.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,12499.0
+iQOO,4.3,1493.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,30999.0
+Amazon basics,3.8,3265.0,Electronics › Home Audio › Speakers › Soundbar Speakers,899.0
+WEARFIT,2.2,3.0,Electronics › Wearable Technology › Smart Watches,5999.0
+ASUS,3.7,64.0,Computers & Accessories › Laptops › Traditional Laptops,64990.0
+Samsung,4.0,11727.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,15999.0
+Tribit,4.4,10034.0,Electronics › Home Audio › Speakers › Outdoor Speakers,2399.0
+Samsung,4.4,1184.0,Home & Kitchen › Large Appliances › Refrigerators,17990.0
+pTron,3.4,854.0,Electronics › Wearable Technology › Smart Watches,999.0
+soundcore,4.6,4981.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",4499.0
+Fire-Boltt,4.2,127208.0,Fashion › Onam 2021 › Watches and fashion jewellery › Watches top brands,1999.0
+OnePlus,4.1,42442.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,21999.0
+2&CO,5.0,1.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,64980.0
+BLUE STAR,3.8,109.0,Home & Kitchen › Large Appliances › Refrigerators,9690.0
+LIVETONE,5.0,3.0,Electronics › Home Audio › Speakers › Tower Speakers,7399.0
+JBL,3.8,46326.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",3999.0
+ZEBRONICS,3.8,71429.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,399.0
+ZEBRONICS,3.5,39743.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",169.0
+esportic,3.4,31.0,Electronics › Wearable Technology › Smart Watches,899.0
+Marshall,4.1,238.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,17998.0
+Portronics,4.2,20815.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1499.0
+realme,4.1,7394.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,14499.0
+Viart Creation,5.0,1.0,Toys & Games › Electronic Toys › Plug & Play Video Games,5499.0
+PowerA,4.6,1095.0,Video Games › Legacy Systems › Nintendo Systems › Nintendo 3DS › Accessories,1399.0
+TECLUSIVE,3.7,88.0,Video Games › Prime Day Coupons | Video Games,799.0
+Marshall,4.1,1693.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",19899.0
+boAt,4.1,92974.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",499.0
+Generic,5.0,4.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,34200.0
+Sadhwanis,3.7,38.0,Toys & Games › Electronic Toys › Plug & Play Video Games,2699.0
+Generic,2.7,7.0,Video Games › Video Games NCEMI,1079.0
+Marshall,4.6,1006.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,17498.0
+BoAt,4.2,16614.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,3499.0
+pTron,3.5,59765.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",189.0
+Skullcandy,4.0,7651.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",9999.0
+Lenovo,3.4,189.0,Computers & Accessories › Laptops › Traditional Laptops,19999.0
+Vu,4.5,1548.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",119999.0
+Marshall,4.7,1311.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,9998.0
+LEGO,4.7,356.0,Video Games › Legacy Systems › Nintendo Systems,43999.0
+pTron,3.8,394.0,Electronics › Home Audio › Speakers › Soundbar Speakers,1098.0
+Lenovo,3.4,64.0,Computers & Accessories › Laptops › Traditional Laptops,16329.0
+amazon basics,5.0,1.0,"Electronics › Home Theater, TV & Video › Accessories › Cables › HDMI Cables",399.0
+pTron,3.8,68563.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",799.0
+Avolusion,4.5,244.0,Computers & Accessories › External Devices & Data Storage › External Hard Disks,19306.0
+iTronix,4.1,87.0,Electronics › Wearable Technology › Arm & Wristband Accessories › Cables,229.0
+Excuty,3.7,14.0,Electronics › Cameras & Photography › Video Cameras,69999.0
+Bang & Olufsen,4.4,3029.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,22500.0
+AKAI,3.7,86.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,5950.0
+Ultimate Ears,4.6,8864.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,6995.0
+HP,2.5,26.0,Computers & Accessories › Laptops › Traditional Laptops,18196.0
+Dell,3.6,61.0,Computers & Accessories › Laptops › Traditional Laptops,57490.0
+TOSHIBA,3.9,99.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",54990.0
+WD_Black,4.6,54.0,Computers & Accessories › External Devices & Data Storage › External Hard Disks,19261.0
+BoAt,4.1,391673.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",349.0
+HP,4.5,70.0,Computers & Accessories › Laptops › Traditional Laptops,92999.0
+MSI,5.0,8.0,Computers & Accessories › Monitors,86999.0
+Artis,4.2,4.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,8499.0
+Generic,2.6,547.0,Electronics › Wearable Technology › Smart Watches,270.0
+Meyaar,4.2,1288.0,"Electronics › Headphones, Earbuds & Accessories › Cases",470.0
+Lenovo,4.1,169.0,Computers & Accessories › Laptops › Traditional Laptops,37990.0
+Kelvinator,4.0,57.0,Home & Kitchen › Large Appliances › Refrigerators,9290.0
+Mabron,5.0,1.0,Toys & Games › Electronic Toys › Handheld Games,919.0
+AYL,3.5,784.0,Electronics › Wearable Technology › Smart Watches,449.0
+Green Soul,4.1,32.0,Home & Kitchen › Furniture › Study & Home Office Furniture › Desks & Workstations › Desks,25999.0
+Morphy Richards,4.3,698.0,Home & Kitchen › Kitchen & Dining › Kitchen Storage & Containers › Microwave Sets,10990.0
+Sony,4.6,49875.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",19990.0
+Sameo,3.1,4.0,Video Games › Legacy Systems › PlayStation Systems › PlayStation 2 › Games,1799.0
+Redmi,3.1,611.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,19999.0
+Nokia,3.1,1488.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,5899.0
+HP,4.1,114.0,Computers & Accessories › Laptops › Traditional Laptops,18500.0
+Mabron,3.4,8.0,Toys & Games › Electronic Toys › Handheld Games,919.0
+HiFiMAN,4.4,732.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",11999.0
+Haier,4.2,5046.0,Home & Kitchen › Large Appliances › Refrigerators,14790.0
+Razer,4.3,319.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,12195.0
+Dell,3.9,101.0,Computers & Accessories › Laptops › Traditional Laptops,52716.0
+Hammer,3.8,1815.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",2099.0
+Sony,4.8,119.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",66490.0
+New World,2.9,2.0,Video Games › Legacy Systems › Nintendo Systems › Nintendo 3DS › Consoles,6499.0
+ZEBSTER,3.5,49.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,506.0
+CrossBeats,4.1,603.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",3498.0
+BOSTON LEVIN,4.1,152.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",1199.0
+Cranique,4.4,23.0,Video Games › PlayStation 5 › Accessories › Cases & Storage › Cases,251.0
+VYBE,1.0,1.0,Home & Kitchen › Large Appliances › Refrigerators,4449.0
+Samsung,4.5,248.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,69999.0
+ThrustMaster,4.5,4627.0,Video Games › PC Games › Accessories › Controllers › Flight Controls,15990.0
+Lenovo,4.1,76.0,Computers & Accessories › Laptops › Traditional Laptops,62494.0
+MX,3.7,25.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,9900.0
+Amazon basics,3.5,94.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1699.0
+SAMSUNG,4.0,25.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,50993.0
+Sonos,4.4,9.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,32998.25
+Talabat,3.7,13.0,Toys & Games › Electronic Toys › Handheld Games,899.0
+2&CO,5.0,1.0,Video Games › PlayStation 5,36990.0
+Mabron,5.0,1.0,Toys & Games › Electronic Toys › Handheld Games,799.0
+SANSUI,3.9,219.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",17990.0
+Motorola,3.5,337.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,44999.0
+SHOKZ,4.5,2637.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Open-Ear Headphones",17999.0
+VYBE,3.0,20.0,Home & Kitchen › Large Appliances › Refrigerators,4849.0
+Microsoft,3.0,4.0,Computers & Accessories › Laptops › Traditional Laptops,95999.0
+Xiaomi,4.0,810.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,11499.0
+Dell,3.7,131.0,Computers & Accessories › Laptops › Traditional Laptops,48990.0
+JBL,3.8,46326.0,"Electronics › Headphones, Earbuds & Accessories › Headphones",2899.0
+NextTech,2.7,3.0,Toys & Games › Electronic Toys › Handheld Games,539.0
+ZEBRONICS,4.0,24.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",999.0
+New World,3.3,191.0,Video Games › HandHeld Gaming,939.0
+Dell,5.0,1.0,Computers & Accessories › Laptops › Traditional Laptops,50990.0
+Raptas,5.0,2.0,Electronics › Mobiles & Accessories › Mobile Accessories › Photo & Video Accessories › Handheld Gimbals & Stabilisers,9095.0
+Generic,3.5,2.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,40990.0
+Haier,4.0,174.0,Home & Kitchen › Large Appliances › Refrigerators,12490.0
+Hisense,4.2,1246.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",37990.0
+TOSHIBA,4.1,2787.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",16990.0
+Krisons,3.3,72.0,Electronics › Home Audio › Speakers › Tower Speakers,1599.0
+Sony,4.7,393.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",59840.0
+IKALL,2.4,6.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6798.0
+Tronsmart,4.4,569.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,23299.0
+Samsung,3.9,146.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",18900.0
+BoAt,3.9,7782.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1499.0
+Razer,4.1,61.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,11799.0
+Samsung,3.2,7.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,42999.0
+DREAMHAX,4.1,187.0,Toys & Games › Electronic Toys › Plug & Play Video Games,10819.09
+HP,3.6,319.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",2004.0
+samsung,4.4,17.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,59380.0
+Samsung,4.3,78.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,58990.0
+realme,3.9,8008.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,9999.0
+JBL,4.4,2320.0,Electronics › Home Audio › Speakers › Outdoor Speakers,17998.0
+SHOKZ,4.5,686.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Open-Ear Headphones",17999.0
+JBL,4.4,32018.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,7299.0
+KODAK,3.9,1734.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",18999.0
+boAt,3.9,101058.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",999.0
+Nokia,3.2,88.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6799.0
+Generic,2.2,11.0,Video Games › Video Games NCEMI,999.0
+SAMSUNG,4.0,25.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,51999.0
+IKALL,2.9,10.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,8599.0
+Samsung,4.0,16926.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,13990.0
+Hitage,5.0,1.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",165.0
+10WeRun,3.7,1750.0,Electronics › Wearable Technology › Smart Watches,399.0
+BoAt,4.1,4543.0,Electronics › Home Audio › Speakers › Outdoor Speakers,1799.0
+Tropicool,3.5,768.0,Home & Kitchen › Home & kitchen | Prime shopping days › Affinity ASINs | 263 › 1,4949.0
+Kennkari,4.2,113.0,Home & Kitchen › Furniture › Living Room Furniture › TV & Entertainment Units,8000.0
+Samsung,4.6,226.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,69999.0
+Tecno,3.8,155.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,54999.0
+LG Electronics India Pvt. Ltd,4.3,1660.0,Home & Kitchen › Large Appliances › Refrigerators,16290.0
+Tecno,4.0,436.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,69999.0
+Philips Audio,4.0,23033.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,7140.0
+HP,4.6,17.0,Computers & Accessories › Laptops › Traditional Laptops,79990.0
+video game,3.2,3.0,Video Games › HandHeld Gaming,536.0
+iQOO,4.3,1122.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,42999.0
+Aroma,3.8,157.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,488.0
+LG,4.4,2919.0,Home & Kitchen › Large Appliances › Microwave Ovens › Combination Convection & Microwave,12190.0
+Samsung,4.1,28289.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,9499.0
+Sonodyne,4.5,32.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,14999.0
+Oraimo,4.1,282.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Open-Ear Headphones",5699.0
+realme,3.4,20.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,32700.0
+LG,4.3,1468.0,Home & Kitchen › Large Appliances › Refrigerators,20990.0
+boAt,4.0,20902.0,Electronics › Home Audio › Speakers › Outdoor Speakers,1099.0
+MICROMINI,4.6,3.0,Video Games › Online Game Services,6899.0
+MI,4.2,67782.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",42999.0
+Sennheiser,4.0,3340.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",12990.0
+Sony,4.1,570.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,12988.0
+Philips Audio,3.9,649.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",1508.0
+Portronics,3.9,1237.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",199.0
+Riviera THE BRAND OF NEW ERA,3.9,21.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",89.0
+PSS,2.9,2.0,Toys & Games › Prime Day › Games and puzzles: 25%-50% off,4990.0
+Sony,3.8,498.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,13990.0
+Sennheiser Professional Audio,4.5,1718.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",10325.0
+Acer,4.2,2875.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",30999.0
+Infinity,3.8,66682.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",799.0
+Marshall,4.5,254.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,31999.0
+BoAt,2.5,3.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",799.0
+HP,2.8,29.0,Computers & Accessories › Laptops › Traditional Laptops,15999.0
+OnePlus,4.1,134154.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",1999.0
+Sennheiser,4.1,959.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",15990.0
+JBL,4.5,284.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,19999.0
+Samsung,4.2,11926.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",13990.0
+JBL,4.1,3447.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",5999.0
+OneAssist Live Uninterrupted,4.0,6183.0,Electronics › Warranties,129.0
+MICROMINI,3.2,5.0,Video Games › Online Game Services,6980.0
+Sony,4.1,433.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,4487.0
+ZEBRONICS,4.1,2969.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,3999.0
+FIFINE,4.5,274.0,Musical Instruments › Microphones › Dynamic,5650.0
+Sonodyne,4.3,46.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,20999.0
+Devialet,4.2,32.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,175000.0
+New World,2.0,1.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,5499.0
+GSH,3.8,265.0,"Video Games › Starting ₹3,000 | Escape into the world of gaming",5899.0
+boAt,3.9,4197.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",3999.0
+Marshall,4.4,932.0,Electronics › Home Audio › Speakers › Outdoor Speakers,18998.0
+realme,4.1,894.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,15099.0
+IKALL,1.5,2.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6798.0
+GSH,3.7,23.0,Toys & Games › Electronic Toys › Plug & Play Video Games,5948.0
+amazon basics,5.0,1.0,"Electronics › Home Theater, TV & Video › Accessories › Cables › HDMI Cables",379.0
+Sony,4.2,7160.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",3990.0
+Philips Audio,3.2,19.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,7199.0
+Fire-Boltt,4.1,41186.0,Fashion › Onam 2021 › Watches and fashion jewellery › Watches top brands,1499.0
+HP,3.6,47.0,Computers & Accessories › Laptops › Traditional Laptops,38990.0
+amazon basics,5.0,1.0,"Electronics › Home Theater, TV & Video › Accessories › Cables › HDMI Cables",429.0
+TCL,4.0,863.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",39990.0
+ASUS,4.0,523.0,Computers & Accessories › Laptops › Traditional Laptops,36990.0
+JBL,3.8,1364.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",3499.0
+Redmi,3.9,8491.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6999.0
+ViewSonic,4.1,4933.0,Computers & Accessories › Monitors,15899.0
+Fire-Boltt,4.2,127204.0,Fashion › Onam 2021 › Watches and fashion jewellery › Watches top brands,1349.0
+boAt,4.1,171504.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",999.0
+pTron,3.0,21.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,817.0
+Nokia,3.2,88.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,7099.0
+SAMSUNG,4.4,29.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,116999.0
+boAt,4.1,109460.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",1699.0
+Acer,4.3,13388.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",10999.0
+Artis,4.3,48.0,Computers & Accessories › Accessories & Peripherals › Uninterrupted Power Supplies,8499.0
+ZEBRONICS,4.0,259.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,3299.0
+OnePlus,2.4,10.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,32999.0
+JBL,3.8,46326.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",2899.0
+TOZO,4.4,724.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",13850.0
+AOKZOE,4.0,3.0,Video Games › Nintendo Switch › Consoles,105999.0
+Generic,3.0,5.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,34499.0
+Redmi,5.0,2.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,32985.0
+amazon basics,3.9,1077.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,799.0
+AOKZOE,1.0,1.0,Video Games › Nintendo Switch › Consoles,98999.0
+ZEBRONICS,3.2,11.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1799.0
+beyerdynamic,4.5,2485.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",11762.0
+CrossBeats,3.9,817.0,Electronics › Home Audio › Speakers › Soundbar Speakers,1599.0
+Generic,2.6,12.0,"Video Games › Starting ₹3,000 | Escape into the world of gaming",2270.0
+Infinity,4.1,33174.0,Electronics › Home Audio › Speakers › Outdoor Speakers,897.0
+OnePlus,4.1,11823.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",31999.0
+Sony,4.8,19007.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",52990.0
+Sony,4.3,3388.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",7990.0
+MI,4.2,67782.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",30490.0
+Blue Star,1.0,1.0,Home & Kitchen › Large Appliances › Refrigerators,8649.0
+Samsung,4.1,312.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,27499.0
+Samsung,3.9,33.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,19390.0
+LG,4.3,3836.0,Computers & Accessories › Monitors,33099.0
+Acer,4.0,29.0,Computers & Accessories › Laptops › Traditional Laptops,29499.0
+Yamaha,4.1,131.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,16533.0
+JBL,4.3,692.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,12999.0
+VIMZEE PREMIUM,1.0,1.0,Video Games › Legacy Systems,1799.0
+IKALL,4.2,2.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6798.0
+NEXTTECH,2.8,9.0,Toys & Games › Electronic Toys › Handheld Games,999.0
+Amera,3.2,10.0,Electronics › Wearable Technology › Smart Watches,728.0
+Dyanora,3.9,234.0,"Electronics › Home Theater, TV & Video › Televisions › Standard Televisions",7499.0
+Dell,3.2,21.0,Computers & Accessories › Laptops › Traditional Laptops,94900.0
+BlackBerry,3.6,201.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,22600.0
+Honeywell,4.5,2120.0,Computers & Accessories › Accessories & Peripherals › Cables & Accessories › Cables › Ethernet Cables,849.0
+Nokia,3.6,442.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,8999.0
+New World,3.2,1271.0,Video Games › Prime Day Coupons | Video Games,729.0
+IFB,4.3,5040.0,Home & Kitchen › Large Appliances › Microwave Ovens › Combination Convection & Microwave,10790.0
+LS LAPSTER Quality Assured,3.4,2356.0,Electronics › Wearable Technology › Smart Watches & Accessories › Charging Docks,149.0
+RIITEK,4.7,7.0,Computers & Accessories › Monitors,19990.0
+Itel,3.7,1144.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,8699.0
+VASAGLE,4.6,1925.0,Home & Kitchen › Furniture › Living Room Furniture › TV & Entertainment Units,61152.97
+Lenovo,4.0,63.0,Computers & Accessories › Laptops › Traditional Laptops,36990.0
+Whirlpool,3.0,2.0,Home & Kitchen › Large Appliances › Refrigerators,15490.0
+Crown,3.9,3.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",8300.0
+Skullcandy,4.2,411.0,Video Games › PlayStation 4 › Accessories › Headsets,8277.0
+Marshall,4.5,254.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,31999.0
+Beats,4.6,12868.0,Electronics › Apple › Beats › Beats Headphones,19900.0
+Drumstone,2.8,3.0,Toys & Games › Electronic Toys › Plug & Play Video Games,3999.0
+boAt,4.0,32257.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",399.0
+JBL,4.2,8297.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,13515.0
+realme,4.1,5937.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,19999.0
+MI,4.2,67782.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",29999.0
+Bang & Olufsen,4.4,3029.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,20998.0
+Marshall,4.1,1693.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",19999.0
+Dell,3.6,8.0,Computers & Accessories › Laptops › 2 in 1 Laptops,99490.0
+Dell,3.6,475.0,Computers & Accessories › Laptops › Traditional Laptops,47990.0
+pTron,3.7,293.0,Electronics › Home Audio › Speakers › Bookshelf Speakers,498.0
+2&CO,5.0,1.0,Video Games › Nintendo Switch › Consoles,59990.0
+LG,4.0,1250.0,Electronics › Home Audio › Speakers › Soundbar Speakers,8988.0
+Redmi,3.9,8491.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,9499.0
+CredevZone,4.4,272.0,Toys & Games › Electronic Toys › Plug & Play Video Games,13239.0
+Dell,4.3,9794.0,Computers & Accessories › Accessories & Peripherals › Laptop Accessories › Docking Stations,10499.0
+Viart Creation,3.1,40.0,Toys & Games › Electronic Toys › Plug & Play Video Games,2599.0
+iClever,4.4,7063.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",2899.0
+realme,3.9,640.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,10049.0
+Bose,4.6,688.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,20597.0
+Bang & Olufsen,4.5,1503.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,17998.0
+JCHPINE,4.4,105.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Joysticks,7461.0
+Muzen,4.1,59.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,6499.0
+Lenovo,4.4,5037.0,Computers & Accessories › Laptops › Traditional Laptops,18990.0
+Sounce,3.9,8019.0,Electronics › Wearable Technology › Smart Watches & Accessories › Cables,149.0
+ZEBRONICS,3.7,143.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,999.0
+LG,3.8,5.0,Home & Kitchen › Large Appliances › Refrigerators,1399.0
+New World,2.8,39.0,Toys & Games › Electronic Toys › Plug & Play Video Games,3399.0
+Lapras,5.0,2.0,Toys & Games › Electronic Toys › Handheld Games,915.0
+Sennheiser,3.9,1204.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",10444.0
+Titan,3.9,643.0,Electronics › Wearable Technology › Smart Watches,8995.0
+ZEBRONICS,3.8,1433.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",399.0
+Anker,4.5,4316.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,9999.0
+JBL,4.1,3447.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",5999.0
+BUYFLUX,5.0,1.0,"Electronics › Home Theater, TV & Video › Accessories › Cables › HDMI Cables",499.0
+ASUS,4.1,43.0,Computers & Accessories › Networking Devices › Routers,66156.0
+iQOO,4.3,7769.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,23999.0
+JBL,4.0,438.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",19999.0
+Sennheiser Professional Audio,4.5,1719.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",10325.0
+ZEBRONICS,3.8,67048.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",699.0
+Karbonn,3.7,11.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",18490.0
+Polk Audio,4.7,825.0,Electronics › Home Audio › Speakers › Bookshelf Speakers,20400.0
+IKALL,3.0,5.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,7799.0
+Generic,5.0,2.0,Home & Kitchen › Large Appliances › Refrigerators,549.0
+VU,4.4,3218.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",29990.0
+Meyaar,4.1,45.0,"Electronics › Headphones, Earbuds & Accessories › Cases",399.0
+Lenovo,3.8,182.0,Computers & Accessories › Laptops › Traditional Laptops,23980.0
+Redmi,3.8,4255.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6299.0
+Sony,4.0,9736.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,2988.0
+VGRASSP,3.2,170.0,Toys & Games › Electronic Toys › Handheld Games,861.0
+Samsung,4.5,2.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",115000.0
+Skullcandy,4.0,5856.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",7499.0
+Marshall,4.6,48.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,41999.0
+BoAt,4.3,42639.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,2699.0
+Lapras,4.6,4.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Joysticks,919.0
+boAt,4.1,109460.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",1958.0
+BoAt,4.1,276340.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",499.0
+Samsung,3.9,12723.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6499.0
+Alto Professional,3.0,1.0,Musical Instruments › PA & Stage › Speakers,20900.0
+V-SKY,5.0,4.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",7499.0
+ZEBRONICS,3.5,44032.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",149.0
+Samsung,4.5,76.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,64999.0
+boAt,4.1,276340.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",699.0
+ZEBRONICS,4.0,174.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,2999.0
+Amazfit,4.0,2803.0,Electronics › Wearable Technology › Smart Watches,7999.0
+iQOO,4.3,3459.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,33999.0
+Vibez,4.0,786.0,Fashion › Watches › Smartwatches & Activity tracker › Amoled,3199.0
+SHOKZ,4.5,2637.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",17999.0
+Sony,3.9,22542.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",12199.0
+Sennheiser,4.1,3581.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",4490.0
+Samsung,4.1,62.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,43990.0
+XIAOMI,3.1,24.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,31999.0
+Realme,4.3,162937.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",599.0
+Cultsport,4.3,663.0,Electronics › Wearable Technology › Smart Watches,3499.0
+JBL,4.4,8896.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,4279.0
+Dell,4.3,10.0,Computers & Accessories › Laptops › 2 in 1 Laptops,79490.0
+Portronics,3.6,286.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,649.0
+GSH,5.0,2.0,Toys & Games › Electronic Toys › Handheld Games,7799.0
+Jabra,4.4,273.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,41580.0
+JBL,4.6,9.0,Electronics › Home Audio › Speakers › Ceiling & In Wall Speakers,17999.0
+PSS,5.0,4.0,Video Games › Gaming Headsets,2890.0
+Bose,4.6,40587.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,8697.0
+ZEBRONICS,2.6,4.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,799.0
+Fossil,3.8,1889.0,Fashion › Watches › Smartwatches & Activity tracker › Smartwatches,9598.0
+ASUS,4.6,3.0,Computers & Accessories › Laptops › Traditional Laptops,73990.0
+Marshall,4.7,181.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,31999.0
+TMG Store,3.7,15.0,Toys & Games › Electronic Toys › Handheld Games,999.0
+HP,3.2,26.0,Computers & Accessories › Laptops › Traditional Laptops,18990.0
+MICROMINI,2.0,1.0,Video Games › Online Game Services,12499.0
+Generic,2.5,3.0,Video Games › Video Games NCEMI,1699.0
+pTron,3.6,32.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,898.0
+Tecno,3.3,14.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,59498.0
+Samsung,4.3,1773.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,44999.0
+Whirlpool,4.2,5289.0,Home & Kitchen › Large Appliances › Refrigerators,13990.0
+Tribit,4.4,2580.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,8199.0
+GSH,4.0,165.0,Toys & Games › Electronic Toys › Plug & Play Video Games,7396.0
+Acer,4.3,4807.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",33999.0
+Samsung,4.2,689.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,52900.0
+BoAt,4.1,171504.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",1099.0
+BenQ,4.5,12.0,Electronics › BenQ new launch,359291.0
+JBL,3.8,46326.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",2899.0
+GSH,4.0,494.0,Toys & Games › Electronic Toys › Plug & Play Video Games,2299.0
+Sony,4.1,570.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,14988.0
+Noise,4.0,13308.0,Electronics › Wearable Technology › Smart Watches,1498.0
+boAt,4.0,4414.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,899.0
+VW,4.1,2511.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",12999.0
+ASUS,3.7,79.0,Computers & Accessories › Monitors,179999.0
+Sony,4.2,8903.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",2099.0
+Crucial,4.5,49588.0,Computers & Accessories › Components › Memory,15500.0
+Artis,2.0,1.0,Electronics › Home Audio › Speakers › Outdoor Speakers,10999.0
+Samsung,3.9,12723.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,7499.0
+Samsung,4.1,229.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,99999.0
+Fire-Boltt,4.2,14820.0,Electronics › Wearable Technology › Smart Watches,3999.0
+Lenovo,3.8,80.0,Computers & Accessories › Laptops › Traditional Laptops,16199.0
+ASUS,5.0,4.0,Computers & Accessories › Laptops › Traditional Laptops,80490.0
+MARVIK,3.9,62.0,Electronics › Wearable Technology › Smart Watches,449.0
+realme,3.9,8008.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,7999.0
+Avolusion,4.4,385.0,Video Games › PlayStation 4 › Consoles,26204.0
+soundcore,4.1,62881.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",4499.0
+LG,4.0,11.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",17171.0
+Edifier,4.4,6049.0,Electronics › Home Audio › Speakers › Bookshelf Speakers,10451.0
+OnePlus,2.8,8.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,44999.0
+CLAW,3.5,2523.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,1990.0
+Bang & Olufsen,4.4,52.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,42299.0
+ULTIMUS,1.7,9.0,Computers & Accessories › Laptops › Traditional Laptops,17990.0
+ZEBRONICS,3.8,13173.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,699.0
+IKALL,3.0,4.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6798.0
+Generic,5.0,1.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,38999.0
+ZEBRONICS,3.7,1161.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",699.0
+Redmi,3.9,8491.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,8499.0
+CredevZone,3.5,25.0,Toys & Games › Electronic Toys › Handheld Games,10813.0
+ASUS,3.4,12.0,Computers & Accessories › Laptops › Traditional Laptops,84990.0
+ASUS,4.0,523.0,Computers & Accessories › Laptops › Traditional Laptops,40990.0
+HP,4.1,2149.0,Computers & Accessories › Laptops › Traditional Laptops,50990.0
+AYL,4.3,17.0,Electronics › Wearable Technology › Smart Watches,399.0
+FUTOPIA,2.7,13.0,Computers & Accessories › Laptops › Traditional Laptops,11990.0
+beyerdynamic,4.6,13408.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",13855.0
+ZEBRONICS,3.8,4510.0,Electronics › Home Audio › Speakers › Soundbar Speakers,699.0
+Harman Kardon,4.6,142.0,Electronics › Home Audio › Speakers › Outdoor Speakers,16299.0
+Acer,4.2,2875.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",22999.0
+Redmi,3.8,4255.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6799.0
+Mivi,4.1,21334.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,599.0
+Lava,4.0,1796.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,9999.0
+Bose,4.6,26058.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,11897.0
+JBL,4.3,33.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",12999.0
+Marshall,4.6,1006.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,16998.0
+ZEBRONICS,3.8,778.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,699.0
+Titan,3.7,16.0,Electronics › Wearable Technology › Smart Watches,8995.0
+Skullcandy,4.3,16024.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",15499.0
+IFB,4.3,5573.0,Home & Kitchen › Large Appliances › Microwave Ovens,14490.0
+amazon basics,4.9,93.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",899.0
+Sonodyne,4.3,46.0,Electronics › Home Audio › Speakers › Outdoor Speakers,20999.0
+Audio-Technica,4.4,837.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",7790.0
+Honeywell,4.0,540.0,Electronics › Home Audio › Speakers › Soundbar Speakers,8999.0
+JBL,4.2,8297.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,18999.0
+Samsung,4.3,1087.0,Home & Kitchen › Large Appliances › Refrigerators,17990.0
+GSH,2.5,3.0,Toys & Games › Electronic Toys › Handheld Games,899.0
+Westinghouse,3.8,262.0,"Electronics › Home Theater, TV & Video › Televisions › Standard Televisions",5999.0
+GoWarranty,3.0,4.0,Electronics › Warranties,5100.0
+Samsung,1.9,4.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,69999.0
+Ultimate Ears,4.2,8540.0,Electronics › Home Audio › Speakers › Outdoor Speakers,13995.0
+pTron,3.8,394.0,Electronics › Home Audio › Speakers › Soundbar Speakers,898.0
+EvoFox,3.0,10.0,Video Games › Xbox Series X & S › Consoles,9999.0
+BoAt,3.9,1795.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",349.0
+INSTAPLAY,4.3,68.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,279.0
+Titan,3.7,16.0,Electronics › Wearable Technology › Smart Watches,7995.0
+KODAK,4.2,1367.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",9299.0
+Muzen,4.3,1240.0,Electronics › Home Audio › Speakers › Outdoor Speakers,5499.0
+WTG,3.0,87.0,Electronics › Wearable Technology › Smart Watches,660.0
+VELL - TECH,3.3,2898.0,Electronics › Wearable Technology › Smart Watches,499.0
+Sennheiser,3.8,4971.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",11990.0
+PTron,3.5,29.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,398.0
+Fire-Boltt,4.3,7703.0,Electronics › Wearable Technology › Smart Watches,2499.0
+boAt,4.1,62638.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",2799.0
+PTron,4.2,16.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,599.0
+itel,4.5,146.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,9999.0
+TIMEX,3.5,438.0,Fashion › Onam 2021 › Watches and fashion jewellery › Watches top brands,5995.0
+Samsung,4.1,28289.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,9199.0
+Kingston,5.0,1.0,Computers & Accessories › Components › Memory,12999.0
+amazon basics,4.0,12.0,Electronics › Home Audio › Speakers › Soundbar Speakers,699.0
+Acer,3.5,10.0,Computers & Accessories › Laptops › Traditional Laptops,84990.0
+Nothing,3.7,382.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,36990.0
+Zealot,4.3,945.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,6816.0
+Vanguard,4.3,171.0,Electronics › Cameras & Photography › Accessories › Cases & Bags › Camera Backpacks,10509.0
+Generic,5.0,2.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,38499.0
+CodersParadise,4.4,685.0,Computers & Accessories › Accessories & Peripherals › Laptop Accessories › Skin Stickers › Decals,289.0
+karya siddhi traders,3.7,4.0,Video Games › HandHeld Gaming,549.0
+ASUS,4.0,1.0,Computers & Accessories › Laptops › Traditional Laptops,99990.0
+Sony,4.0,51989.0,Electronics › Electronics › Headphones › Headphones Below 999,773.0
+LG,4.2,3257.0,Home & Kitchen › Large Appliances › Refrigerators,28990.0
+Generic,5.0,1.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,36499.0
+Sony,2.8,4.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,12739.8
+Samsung,2.7,3.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,55190.0
+Xbox,4.5,2049.0,Computers & Accessories › Microsoft Xbox Controllers - Aug 2023,32499.0
+CARE CASE,2.2,12.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",999.0
+Muzen,4.3,1240.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,5499.0
+Titan,3.7,16.0,Fashion › Watches › Smartwatches & Activity tracker › BT calling,8995.0
+MSI,4.0,35.0,Computers & Accessories › Laptops › Traditional Laptops,105990.0
+realme,3.9,13103.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,11999.0
+LetCart,2.5,4.0,Home & Kitchen › Large Appliances › Refrigerators,8448.0
+JBL Professional,4.3,1884.0,Electronics › Home Audio › Speakers › Bookshelf Speakers,12240.0
+Nitho,3.7,30.0,Video Games › Nintendo Switch › Accessories › Hand Grips,467.37
+Bose,4.3,142.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,38400.0
+MSI,4.4,342.0,Computers & Accessories › Monitors,11528.0
+Lenovo,4.2,14.0,Computers & Accessories › Laptops › Traditional Laptops,80190.0
+Sony,4.0,48876.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",2990.0
+Logitech,4.2,16055.0,Computers & Accessories › Accessories & Peripherals › Audio & Video Accessories › Webcams & VoIP Equipment,16499.0
+Dell,4.0,1.0,Computers & Accessories › Laptops › Traditional Laptops,57900.0
+ASUS,4.5,12.0,Computers & Accessories › Laptops › Traditional Laptops,40920.0
+Marshall,4.3,64.0,Electronics › Home Audio › Speakers › Outdoor Speakers,59998.0
+pTron,3.8,68563.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",599.0
+ENHANCE,4.8,92.0,Video Games › Xbox Series X & S › Accessories › Cases & Storage › Cases,14325.0
+SteelSeries,4.1,3287.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,30129.0
+Samsung,2.3,3.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,54900.0
+LG,4.2,1128.0,Home & Kitchen › Large Appliances › Refrigerators,23490.0
+AXL,3.2,177.0,Computers & Accessories › Laptops › Traditional Laptops,14990.0
+Acer,4.2,2875.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",10999.0
+Sony,4.3,3388.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",9527.0
+Fossil,3.8,14816.0,Fashion › Onam 2021 › Watches and fashion jewellery › Watches top brands,9198.0
+BoAt,4.1,173914.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",499.0
+SAMSUNG,4.0,25.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,50957.0
+Samsung,3.4,47.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,57990.0
+VISE,1.0,1.0,Home & Kitchen › Large Appliances › Refrigerators,8990.0
+Vu,4.5,1548.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",79999.0
+ASUS,4.3,24.0,Computers & Accessories › Laptops › Traditional Laptops,94990.0
+Lenovo,3.9,112.0,Computers & Accessories › Laptops › Traditional Laptops,33790.0
+Sameo,2.5,9.0,Video Games › Legacy Systems,2549.0
+amazon basics,4.5,124.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",1099.0
+Viart Creation,5.0,2.0,Toys & Games › Electronic Toys › Plug & Play Video Games,2599.0
+Vivo,3.9,111.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,8999.0
+SAMSUNG,4.0,25.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,47390.0
+Portronics,3.7,260.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,849.0
+Sony,4.3,3382.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",7990.0
+Oppo,4.7,16.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,59888.0
+Blaupunkt,4.0,831.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,899.0
+boAt,4.6,20.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,8999.0
+Philips Audio,3.9,36555.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",379.0
+Yamaha,4.1,37.0,Electronics › Home Audio › Speakers › Subwoofers,28070.0
+CouchConsole,4.2,235.0,Car & Motorbike › Car Accessories › Interior Accessories › Consoles & Organizers › Cup Holders,14521.0
+Nintendo,4.5,591.0,Video Games › Nintendo Switch › Consoles,31990.0
+OnePlus,4.4,12639.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,44999.0
+IKALL,3.0,6.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,7314.0
+Portronics,3.7,392.0,Electronics › Home Audio › Speakers › Outdoor Speakers,5599.0
+G.FIDEL,3.0,2.0,Toys & Games › Electronic Toys › Handheld Games,558.0
+Samsung,4.1,229.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,154999.0
+LEGO,4.9,89.0,Video Games › Legacy Systems › Xbox Systems,49899.0
+Samsung,3.5,47.0,Computers & Accessories › Laptops › Traditional Laptops,138990.0
+OnePlus,4.1,11823.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",24999.0
+Kodak,4.1,12208.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",15999.0
+OUKITEL,3.6,51.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,40500.0
+Victorinox,4.6,182.0,Computers & Accessories › Accessories & Peripherals › Laptop Accessories › Bags & Sleeves › Laptop Backpacks,12560.0
+ASUS,4.4,242.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,34640.0
+Haier,4.2,743.0,Home & Kitchen › Large Appliances › Refrigerators,20990.0
+MSI,3.2,15.0,Computers & Accessories › Laptops › Traditional Laptops,569990.0
+Samsung,4.1,1584.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",64990.0
+SKYBALL,2.8,21.0,Electronics › Home Audio › Speakers › Tower Speakers,5499.0
+HP,2.7,36.0,Computers & Accessories › Laptops › Traditional Laptops,16199.0
+OnePlus,4.1,42410.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",21990.0
+ASUS,5.0,2.0,Computers & Accessories › Laptops › Traditional Laptops,94990.0
+Bosch,4.7,1918.0,Home & Kitchen › Large Appliances › Refrigerators,5240.0
+Samsung,4.2,9813.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",30990.0
+AVITA,3.5,17.0,Computers & Accessories › Laptops › Traditional Laptops,19990.0
+BROTHER ZONE,3.0,4.0,Electronics › Wearable Technology › Smart Watches,7999.0
+MSI,4.1,34.0,Computers & Accessories › Laptops › Traditional Laptops,83990.0
+AYN,4.1,24.0,Toys & Games › Electronic Toys › Handheld Games,59769.0
+pTron,3.5,29.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,398.0
+YAMAHA,3.2,30.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",11682.0
+Bang & Olufsen,4.4,52.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,42750.0
+Fastrack,3.9,5028.0,Fashion › Watches › Smartwatches & Activity tracker › BT calling,1799.0
+NV,4.0,55.0,Video Games › PlayStation 5 › Accessories › Cases & Storage › Cases,251.0
+Logitech G,4.4,620.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,14995.0
+KOLD FIRE,3.7,12.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,31490.0
+HP,3.9,67.0,Computers & Accessories › Laptops › Traditional Laptops,60990.0
+Samsung,3.8,8.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,61990.0
+Acer,4.3,1018.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",14999.0
+Samsung,4.2,35479.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",449.0
+HP,4.1,2407.0,Computers & Accessories › Laptops › Traditional Laptops,40499.0
+New World,5.0,1.0,Video Games › Legacy Systems › Nintendo Systems › Nintendo 3DS › Consoles,7999.0
+UBON,4.1,1726.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,944.0
+Titan,3.9,643.0,Electronics › Wearable Technology › Smart Watches,9995.0
+Generic,5.0,1.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,62990.0
+Samsung,4.1,1584.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",64990.0
+ASUS,3.9,16.0,Computers & Accessories › Laptops › Traditional Laptops,47990.0
+NextTech,3.0,1.0,Toys & Games › Electronic Toys › Plug & Play Video Games,4649.0
+Dell,3.5,27.0,Computers & Accessories › Laptops › Traditional Laptops,15599.0
+STEAM DECK,4.1,16.0,Computers & Accessories › Accessories & Peripherals › Hard Disk Bags,63999.0
+MI,4.2,67782.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",31999.0
+Dell,3.3,11.0,Computers & Accessories › Laptops › Traditional Laptops,81290.0
+Voacle,4.4,205.0,Toys & Games › Electronic Toys › Plug & Play Video Games,8949.0
+Sony,4.5,157.0,Electronics › Home Audio › Speakers,46438.0
+HP,3.6,15.0,Computers & Accessories › Laptops › Traditional Laptops,14899.0
+Lenovo,4.6,15.0,Computers & Accessories › Laptops › Traditional Laptops,17499.0
+Jabra,4.7,5359.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,22557.0
+FYURI,5.0,2.0,Toys & Games › Electronic Toys › Plug & Play Video Games,5400.0
+VALVE,4.5,24.0,"Electronics › Laptops, Tablets & Cameras › Tablets",57990.0
+TAGG,4.1,431.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1499.0
+KODAK,4.1,12208.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",9000.0
+Mivi,4.1,21334.0,Electronics › Home Audio › Speakers › Outdoor Speakers,599.0
+boAt,4.1,276340.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",399.0
+NextTech,3.4,13.0,Toys & Games › Electronic Toys › Handheld Games,1499.0
+SHOKZ,4.5,16450.0,"Electronics › Headphones, Earbuds & Accessories › Headphones",13499.0
+HP,3.9,20.0,Computers & Accessories › Laptops › Traditional Laptops,20000.0
+pTron,3.6,280.0,Electronics › Home Audio › Speakers › Bookshelf Speakers,498.0
+X Electron,4.2,59.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",8499.0
+VU,4.4,3218.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",34990.0
+Hammer,3.8,1815.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",2099.0
+Bouncefit,2.5,685.0,Electronics › Wearable Technology › Smart Watches,489.0
+HP,2.9,38.0,Computers & Accessories › Laptops › Traditional Laptops,17298.0
+cubonic,5.0,1.0,Electronics › Wearable Technology › Smart Watches,5999.0
+OnePlus,4.1,147667.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",2299.0
+BoAt,4.0,4414.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,999.0
+iClever,4.4,7063.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",3899.0
+ZEBRONICS,3.9,1652.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1399.0
+InfiRay,4.4,36.0,Electronics › Cameras & Photography › Security Cameras › Trail & Game Cameras,66071.0
+Acer,4.2,315.0,Computers & Accessories › Laptops › Traditional Laptops,71990.0
+Redmi,4.1,294362.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,8099.0
+Jabra,4.3,138.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",16999.0
+BOSS,4.2,484.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,13802.0
+JBL,3.8,46326.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",3999.0
+Lava,3.6,1489.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,8999.0
+HP,2.8,33.0,Computers & Accessories › Laptops › Traditional Laptops,16199.0
+Nu,4.5,669.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",11990.0
+Sounce,4.2,1823.0,Electronics › Wearable Technology › Smart Watches & Accessories › Replacement Bands,99.0
+Turet,4.0,33.0,Electronics › Wearable Technology › Smart Watches,7161.0
+VW,3.9,9709.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",6599.0
+Whirlpool,4.2,445.0,Home & Kitchen › Large Appliances › Microwave Ovens,10990.0
+Honor,4.0,1867.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,28709.01
+Sennheiser,3.9,3339.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",9990.0
+Benro,4.5,3.0,Electronics › Cameras & Photography › Accessories › Tripods & Monopods › Tripod Heads,60505.0
+Whirlpool,4.1,3454.0,Home & Kitchen › Large Appliances › Refrigerators,19190.0
+Oraimo,3.9,78.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Open-Ear Headphones",5999.0
+HP,4.2,275.0,Computers & Accessories › Laptops › Traditional Laptops,71990.0
+Philips Audio,3.8,1040.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",229.0
+JBL,3.8,46326.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",4499.0
+FCS,2.6,37.0,"Electronics › Mobiles & Accessories › Mobile Accessories › Maintenance, Upkeep & Repairs › Screen Protectors",149.0
+TELLUR,4.1,93.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,9171.0
+POGA,3.0,1.0,Video Games › Online Game Services,66999.0
+PlayStation,4.4,165.0,Video Games › PlayStation 5,31305.0
+Fire-Boltt,4.0,7763.0,Electronics › Wearable Technology › Smart Watches,2499.0
+Huawei,4.4,5649.0,Electronics › Wearable Technology › Smart Watches,5499.0
+MIFA,4.5,2850.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,6899.0
+Tecno,4.0,3604.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,14999.0
+Fastrack,3.9,5028.0,Fashion › Watches › Smartwatches & Activity tracker › BT calling,1499.0
+Crucial,4.7,1824.0,Computers & Accessories › Components › Memory,13596.0
+OnePlus,4.1,42410.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",12999.0
+JBL,3.9,106919.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",499.0
+Haier,4.0,114.0,Home & Kitchen › Large Appliances › Refrigerators,25490.0
+Sennheiser,3.7,2971.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",2587.0
+Microsoft,4.1,6.0,Computers & Accessories › Laptops › Traditional Laptops,102990.0
+Lenovo,4.5,2.0,Computers & Accessories › Laptops › Traditional Laptops,48990.0
+2&CO,5.0,3.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,28980.0
+ASUS,3.7,9.0,Computers & Accessories › Laptops › Traditional Laptops,109990.0
+JBL,3.7,32925.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",3999.0
+Generic,4.7,60.0,Video Games › No Cost EMI | Automated,65000.0
+Marshall,3.2,2868.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",11039.0
+Sonodyne,4.5,32.0,Electronics › Home Audio › Speakers › Bookshelf Speakers,14999.0
+Marshall,4.4,932.0,Electronics › Home Audio › Speakers › Outdoor Speakers,18998.0
+Noise,4.1,50396.0,Electronics › Wearable Technology › Smart Watches,1399.0
+JBL,4.3,15513.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,9999.0
+Samsung,4.1,62.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,42499.0
+Tribit,4.5,1591.0,Electronics › Home Audio › Speakers › Outdoor Speakers,15081.0
+LOVEJOY,5.0,4.0,Electronics › Wearable Technology › Smart Watches,449.0
+Motorola,4.0,247.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,69999.0
+Ambrane,3.8,1429.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",179.0
+Noise,4.1,55.0,Electronics › Wearable Technology › Smart Watches,2999.0
+NIXBY TOYS,1.4,3.0,Video Games › Legacy Systems › PlayStation Systems › PSP › Consoles,5499.0
+CredevZone,3.5,154.0,Toys & Games › Electronic Toys › Handheld Games,13642.0
+BUZZ COOL,3.2,22.0,Toys & Games › Electronic Toys › Handheld Games,899.0
+Dell,4.6,3.0,Computers & Accessories › Laptops › Traditional Laptops,57741.0
+Nreal,3.9,30.0,"Electronics › Home Theater, TV & Video › Accessories › 3D Glasses",45999.0
+Xiaomi,4.1,103782.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",499.0
+Marshall,4.3,8129.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",12999.0
+BlackBerry,4.1,268.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,59999.0
+boAt,3.9,7782.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1399.0
+boAt,4.1,391673.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",399.0
+Lenovo,3.1,635.0,Computers & Accessories › Laptops › Traditional Laptops,15747.0
+Samsung,4.1,62.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,45190.0
+Amazon basics,4.4,23188.0,Computers & Accessories › Accessories & Peripherals › Audio & Video Accessories › PC Speakers,379.0
+Sony,4.0,2848.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",16007.0
+boAt,4.2,43732.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1799.0
+MARVIK,3.0,986.0,Electronics › Wearable Technology › Smart Watches,449.0
+realme,4.0,610.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,18189.0
+Realme,4.0,36408.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,8399.0
+JBL,4.4,21286.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,13998.0
+OnePlus,4.1,5224.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",799.0
+GameSir,4.0,2848.0,Electronics › Mobiles & Accessories › Mobile Accessories › Gaming Accessories › Controllers,7299.0
+Nokia,3.7,153.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,8999.0
+QINIZX,4.7,75.0,Home & Kitchen › Large Appliances › Refrigerators,2166.0
+Muzen,3.6,24.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,7999.0
+Xiaomi,4.4,1415.0,Electronics › Wearable Technology › Smart Watches,5990.0
+Marshall,4.1,238.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,17998.0
+New World,3.0,37.0,Video Games › Legacy Systems › PlayStation Systems › PSP › Consoles,2728.0
+Whirlpool,4.1,1880.0,Home & Kitchen › Large Appliances › Refrigerators,13970.0
+ASUS,3.1,3.0,Computers & Accessories › Laptops › Traditional Laptops,86990.0
+Acer,4.3,196.0,Computers & Accessories › Laptops › Traditional Laptops,179990.0
+GameSir,4.3,553.0,Video Games › No Cost EMI | Automated,14299.0
+Dell,4.1,4.0,Computers & Accessories › Laptops › 2 in 1 Laptops,73990.0
+Marshall,4.5,3438.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,24999.0
+ASUS,3.5,12.0,Computers & Accessories › Laptops › Traditional Laptops,112990.0
+ZEBRONICS,3.5,39743.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",119.0
+TOZO,3.8,207371.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",1959.0
+Halonix,3.9,412.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,875.0
+PLATEFORCE,3.7,1286.0,Electronics › Wearable Technology › Smart Watches,449.0
+Bang & Olufsen,4.2,37.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,75000.0
+I GEAR,4.6,15.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,8999.0
+Nokia,3.8,472.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,7499.0
+JBL,3.8,46326.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",4444.0
+ASUS,3.1,6.0,Computers & Accessories › Laptops › Traditional Laptops,104990.0
+Flashfire,3.6,198.0,Video Games › PC Games › Accessories › Controllers › Steering Wheels,46784.91
+ASUS,4.1,143.0,Computers & Accessories › Laptops › Traditional Laptops,63490.0
+OnePlus,4.1,134155.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",2299.0
+SKY BUYER,3.0,58.0,Electronics › Wearable Technology › Smart Watches,499.0
+HAMMER,4.2,23.0,Electronics › Wearable Technology › Smart Watches,3009.0
+Sandisk,4.4,65731.0,Computers & Accessories › External Devices & Data Storage › External Solid State Drives,33059.0
+Marshall,4.0,1619.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",4499.0
+Razer,4.2,407.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,31358.0
+Nokia,3.8,2221.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,12499.0
+Hisense,4.0,1029.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",57999.0
+boAt,3.9,4197.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",4499.0
+BoAt,3.9,7782.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1399.0
+Micca,4.5,503.0,Electronics › Home Audio › Speakers › Bookshelf Speakers,7990.0
+Bang & Olufsen,4.5,1503.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,20000.0
+Noise,4.1,50396.0,Electronics › Wearable Technology › Smart Watches,1498.0
+Logitech,3.9,50.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",10995.0
+KAAS,3.5,4.0,Video Games › Legacy Systems › Nintendo Systems,399.0
+pTron,3.6,4743.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",399.0
+ASUS,3.9,80.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,9500.0
+Blaupunkt,3.8,11009.0,Electronics › Home Audio › Speakers › Soundbar Speakers,1799.0
+Generic,4.0,10.0,Video Games › Video Games NCEMI,3999.0
+JBL,4.1,3447.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",3999.0
+EvoFox,3.9,1628.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,1424.0
+Vibez,4.0,786.0,Electronics › Wearable Technology › Smart Watches,2499.0
+iBOLT,5.0,15.0,"Electronics › Home Theater, TV & Video › Accessories › Projector Accessories › Projector Mounts",61215.0
+Motorola,3.9,205.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,17075.0
+MENEEA,4.5,92.0,Video Games › Xbox Series X & S › Accessories › Batteries & Chargers,18477.0
+Philips Audio,3.9,36555.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",299.0
+Oculus,4.4,4385.0,Video Games › Legacy Systems › Xbox Systems › Xbox 360 › Accessories,57490.0
+Denon,4.2,43.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,76560.0
+IKALL,1.0,3.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,6999.0
+Crown,3.9,3.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",8300.0
+ZEBRONICS,4.0,17.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,899.0
+Lenovo,4.3,18.0,Computers & Accessories › Laptops › Traditional Laptops,18196.0
+Vibez,4.0,786.0,Electronics › Wearable Technology › Smart Watches,999.0
+JBL,4.1,57240.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",749.0
+pTron,3.8,394.0,Electronics › Home Audio › Speakers › Soundbar Speakers,799.0
+Sony,4.3,8980.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",10990.0
+OLICOM,3.5,4183.0,Electronics › Wearable Technology › Smart Watches,499.0
+XPIX,5.0,12.0,Electronics › Cameras & Photography › Film Cameras › Instant Cameras,67910.0
+soundcore,4.1,62881.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",3999.0
+LG,4.2,3603.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",33990.0
+Audio-Technica,4.5,22046.0,Electronics › Electronics › Headphones › Over-Ear Headphones,4499.0
+Lenovo,4.1,40.0,Computers & Accessories › Laptops › Traditional Laptops,68990.0
+Tecno,3.7,292.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,9999.0
+CULTSPORT,4.5,96.0,Electronics › Wearable Technology › Smart Watches,1799.0
+Dell,4.1,453.0,Computers & Accessories › Laptops › Traditional Laptops,74490.0
+JBL,3.9,104014.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",449.0
+ASUS,3.6,7.0,Computers & Accessories › Laptops › Traditional Laptops,55990.0
+Logitech G,4.3,427.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Headsets,13995.0
+Tribit,4.5,1963.0,Electronics › Home Audio › Speakers › Outdoor Speakers,4090.0
+Samsung,4.2,34775.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",449.0
+Srhythm,4.3,12986.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › Over-Ear",7599.0
+Vu,4.5,1548.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",87990.0
+Samsung,4.2,7595.0,Home & Kitchen › Large Appliances › Refrigerators,13990.0
+JBL,4.3,80.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,29999.0
+Polk Audio,4.7,1159.0,Electronics › Home Audio › Speakers › Ceiling & In Wall Speakers,17190.0
+Lenovo,4.4,257.0,Computers & Accessories › Monitors,12599.0
+amazon basics,4.5,124.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",899.0
+Nokia,2.7,6.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,5014.0
+Bang & Olufsen,4.5,1503.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,20000.0
+Motorola,3.3,22.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,9180.0
+STEAM DECK,4.7,454.0,Toys & Games › Games › Tabletop Games › Board Games,57990.0
+connect2kidz,5.0,4.0,Electronics › Wearable Technology › Smart Watches,7999.0
+Aivuidbs,3.7,121.0,Toys & Games › Electronic Toys › Plug & Play Video Games,34083.0
+ZEBRONICS,3.5,39743.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",129.0
+EvoFox,3.7,175.0,Computers & Accessories › Accessories & Peripherals › PC Gaming Peripherals › Gamepads,1896.0
+Fastrack,4.0,1742.0,Fashion › Watches › Smartwatches & Activity tracker › Amoled,2499.0
+Waveshare,3.8,38.0,Computers & Accessories › Components › Barebones,26265.0
+ZEBRONICS,3.9,84.0,Computers & Accessories › Laptops › Traditional Laptops,39990.0
+Samsung,3.0,17.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,42999.0
+HP,3.0,9.0,Computers & Accessories › Laptops › Traditional Laptops,28990.0
+OnePlus,4.1,11823.0,"Electronics › Home Theater, TV & Video › Televisions › Smart Televisions",36990.0
+Vivo,4.0,212.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,28200.0
+VIVO,4.8,899.0,Video Games › PlayStation 4 › Games,5778.21
+PTron,3.7,321.0,Electronics › Home Audio › Speakers › Soundbar Speakers,1098.0
+Sony,4.3,17615.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",2149.0
+Generic,5.0,1.0,Video Games › Video Games NCEMI,1899.0
+F&D,4.2,2513.0,Electronics › Home Audio › Speakers › Multimedia Speaker Systems,5625.0
+BoAt,4.1,82129.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › In-Ear",399.0
+Xiaomi,4.1,6410.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,41999.0
+Sony,4.2,8903.0,"Electronics › Headphones, Earbuds & Accessories › Headphones › On-Ear",2099.0
+Marshall,4.4,4291.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,19999.0
+HP,4.4,1950.0,Computers & Accessories › Laptops › Traditional Laptops,63999.0
+Infinity,4.1,26625.0,Electronics › Home Audio › Speakers › Bluetooth Speakers,1498.0
+Generic,5.0,1.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,33999.0
+Klipsch,4.5,44.0,Electronics › Home Audio › Speakers,48688.0
+Acer,3.8,161.0,"Electronics › Home Theater, TV & Video › Televisions › Standard Televisions",7999.0
+Thyana's,1.0,1.0,Toys & Games › Electronic Toys › Handheld Games,285.0
+2&CO,3.0,6.0,Electronics › Mobiles & Accessories › Smartphones & Basic Mobiles › Smartphones,39870.0
